@@ -1,14 +1,16 @@
 body {
     background-image: url(./images/bg.svg);
     background-color: #111111;
-    background-size: cover;
-    background-repeat: repeat-x;
     background-attachment: fixed;
-    padding: 20px 25px;
     margin: 0;
     color: white;
     font: 500 8px 'Poppins';
     letter-spacing: .02rem;
+}
+
+.container {
+    padding: 20px 25px;
+    height: 100%;
     overflow-y: scroll;
 }
 
