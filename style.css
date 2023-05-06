@@ -1,6 +1,6 @@
 body {
-    background-image: url(./images/bg.png);
-    background-repeat: no-repeat;
+    background-image: url(./images/bg.svg);
+    background-color: #111111;
     background-size: cover;
     background-attachment: fixed;
     padding: 20px 25px;
