@@ -2,6 +2,7 @@ body {
     background-image: url(./images/bg.svg);
     background-color: #111111;
     background-attachment: fixed;
+    background-size: cover;
     margin: 0;
     color: white;
     font: 500 8px 'Poppins';
